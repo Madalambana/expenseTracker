@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917976701250",
+    "project_id": "apt1-1c2b2",
+    "storage_bucket": "apt1-1c2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917976701250:android:39c68e2310ca13d6d050db",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxUTiULAOWTzdQC3x0Z_R_E9uKzqc2-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
